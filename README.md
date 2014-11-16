@@ -1,3 +1,3 @@
-KaggleEEG
+Kaggle Seizure Detection Challenge
 =========
-Code for http://www.kaggle.com/c/seizure-detection
+http://www.kaggle.com/c/seizure-detection
